@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Coffee Machine/task" />
+            <option value="$PROJECT_DIR$/Problems/A capital letter or a digit" />
+            <option value="$PROJECT_DIR$/Problems/Application as a class" />
+            <option value="$PROJECT_DIR$/Problems/Area printer" />
+            <option value="$PROJECT_DIR$/Problems/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Problems/Bank account" />
+            <option value="$PROJECT_DIR$/Problems/Between two numbers" />
+            <option value="$PROJECT_DIR$/Problems/Board game basics  Game" />
+            <option value="$PROJECT_DIR$/Problems/Board game basics  Player" />
+            <option value="$PROJECT_DIR$/Problems/Boxes" />
+            <option value="$PROJECT_DIR$/Problems/City population" />
+            <option value="$PROJECT_DIR$/Problems/Companion" />
+            <option value="$PROJECT_DIR$/Problems/Compare Latin letters" />
+            <option value="$PROJECT_DIR$/Problems/Comparing sums" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers" />
+            <option value="$PROJECT_DIR$/Problems/Composition" />
+            <option value="$PROJECT_DIR$/Problems/Constructor property" />
+            <option value="$PROJECT_DIR$/Problems/Currencies" />
+            <option value="$PROJECT_DIR$/Problems/Currency comparision" />
+            <option value="$PROJECT_DIR$/Problems/Danger level" />
+            <option value="$PROJECT_DIR$/Problems/First, second, third" />
+            <option value="$PROJECT_DIR$/Problems/Floor-space of the room" />
+            <option value="$PROJECT_DIR$/Problems/From 0 to 9" />
+            <option value="$PROJECT_DIR$/Problems/I like Kotlin" />
+            <option value="$PROJECT_DIR$/Problems/Job" />
+            <option value="$PROJECT_DIR$/Problems/Knights" />
+            <option value="$PROJECT_DIR$/Problems/N-th symbol" />
+            <option value="$PROJECT_DIR$/Problems/Odd or even" />
+            <option value="$PROJECT_DIR$/Problems/Patient needs a doctor" />
+            <option value="$PROJECT_DIR$/Problems/Point2D" />
+            <option value="$PROJECT_DIR$/Problems/Reddit" />
+            <option value="$PROJECT_DIR$/Problems/Sequence" />
+            <option value="$PROJECT_DIR$/Problems/Squares of natural numbers" />
+            <option value="$PROJECT_DIR$/Problems/Strings as objects" />
+            <option value="$PROJECT_DIR$/Problems/The army of units" />
+            <option value="$PROJECT_DIR$/Problems/The eternal truth" />
+            <option value="$PROJECT_DIR$/Problems/The information about a person" />
+            <option value="$PROJECT_DIR$/Problems/The number of digits" />
+            <option value="$PROJECT_DIR$/Problems/The result of a game in Tic-Tac-Toe" />
+            <option value="$PROJECT_DIR$/Problems/The sequence 1 2 2 3 3 3" />
+            <option value="$PROJECT_DIR$/Problems/The sum of three numbers" />
+            <option value="$PROJECT_DIR$/Problems/Volume of a cube" />
+            <option value="$PROJECT_DIR$/Problems/Vowel or not" />
+            <option value="$PROJECT_DIR$/Problems/Weather comparison" />
+            <option value="$PROJECT_DIR$/Problems/Within a range" />
+            <option value="$PROJECT_DIR$/Problems/Your name" />
+            <option value="$PROJECT_DIR$/Problems/val or var" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

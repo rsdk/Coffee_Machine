@@ -1,0 +1,43 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Problems/A capital letter or a digit/out/
+/Problems/A capital letter or a digit/out/production/classes/
+/Problems/Arithmetic expression/out/
+/Problems/Arithmetic expression/out/production/classes/
+/Problems/Boxes/out/
+/Problems/Boxes/out/production/classes/
+/Problems/Compare Latin letters/out/
+/Problems/Compare Latin letters/out/production/classes/
+/Problems/Comparing sums/out/
+/Problems/Comparing sums/out/production/classes/
+/Problems/Constructor property/out/
+/Problems/Constructor property/out/production/classes/
+/Problems/Currency comparision/out/
+/Problems/Currency comparision/out/production/classes/
+/Problems/Floor-space of the room/out/
+/Problems/Floor-space of the room/out/production/classes/
+/Problems/Knights/out/
+/Problems/Knights/out/production/classes/
+/Problems/N-th symbol/out/
+/Problems/N-th symbol/out/production/classes/
+/Problems/Odd or even/out/
+/Problems/Odd or even/out/production/classes/
+/Problems/Sequence/out/
+/Problems/Sequence/out/production/classes/
+/Problems/Squares of natural numbers/out/
+/Problems/Squares of natural numbers/out/production/classes/
+/Problems/Strings as objects/out/
+/Problems/Strings as objects/out/production/classes/
+/Problems/The information about a person/out/
+/Problems/The information about a person/out/production/classes/
+/Problems/The number of digits/out/
+/Problems/The number of digits/out/production/classes/
+/Problems/The sequence 1 2 2 3 3 3/out/
+/Problems/The sequence 1 2 2 3 3 3/out/production/classes/
+/Problems/Vowel or not/out/
+/Problems/Vowel or not/out/production/classes/
+/Problems/Weather comparison/out/
+/Problems/Weather comparison/out/production/classes/
